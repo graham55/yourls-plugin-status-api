@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Graham McKoen (GPM)**
-- GitHub: [@gpm](https://github.com/graham55)
+- GitHub: [@graham55](https://github.com/graham55)
 
 ---
 
