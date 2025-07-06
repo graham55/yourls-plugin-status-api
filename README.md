@@ -5,11 +5,11 @@ A comprehensive YOURLS plugin that adds a custom API endpoint to query plugin st
 Directory Structure :
 
 plugin-status-api/
-├── plugin.php
-├── README.md
-├── CHANGELOG.md
-├── LICENSE
-└── .gitignore
+            ├── plugin.php
+            ├── README.md
+            ├── CHANGELOG.md
+            ├── LICENSE
+            └── .gitignore
 
 
 ![YOURLS Plugin](https://img.shields.io/badge/YOURLS-Plugin-blue)
