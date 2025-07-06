@@ -10,7 +10,7 @@ plugin-status-api/
 ├── CHANGELOG.md
 ├── LICENSE
 └── .gitignore
-
+```
 
 ![YOURLS Plugin](https://img.shields.io/badge/YOURLS-Plugin-blue)
 ![Version](https://img.shields.io/badge/version-1.1.0-green)
